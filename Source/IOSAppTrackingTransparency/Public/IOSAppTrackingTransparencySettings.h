@@ -5,7 +5,7 @@
 #include "IOSAppTrackingTransparencySettings.generated.h"
 
 UCLASS(config = Engine, defaultconfig)
-class UIOSAppTrackingTransparencySettings : public UObject
+class IOSAPPTRACKINGTRANSPARENCY_API UIOSAppTrackingTransparencySettings : public UObject
 {
 	GENERATED_BODY()
 

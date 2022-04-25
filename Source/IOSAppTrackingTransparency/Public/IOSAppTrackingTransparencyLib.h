@@ -14,7 +14,7 @@ enum class EIOSAppTrackingAuthStatus : uint8
 };
 
 UCLASS()
-class UIOSAppTrackingTransparencyLib : public UBlueprintFunctionLibrary
+class IOSAPPTRACKINGTRANSPARENCY_API UIOSAppTrackingTransparencyLib : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 
